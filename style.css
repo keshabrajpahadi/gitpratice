@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+} 
+header{
+    display: flex;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+}
+header ul{
+    list-style: none;
+    display: flex;
+}
+#menu{
+    margin: auto;
+    text-align:calc();
+}
+body{
+    background-color:#7aa3bf;
+    background-image: url(hero-car-mobile.png);
+    text-align: center;
+    background-repeat: no-repeat;
+}
+#menu li{
+    padding: 10px;
+}
+#time{
+    border: none;
+    
+}
+A:hover{
+    text-decoration:underline;
+}
